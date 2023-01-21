@@ -1004,8 +1004,7 @@ header.active .side-bar .logo {
 /* Title */
 .title {
     float: left;
-    margin-bottom: 50px;
-    position: relative;
+    margin-bottom: 80px;
     text-align: center;
     width: 100%;
 }
